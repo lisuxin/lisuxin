@@ -4,6 +4,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend">
+
 ### 技术栈
  
 ![Python](https://img.shields.io/badge/-Python-192133?style=flat-square&logo=python&logoColor=white)
