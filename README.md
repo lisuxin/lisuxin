@@ -1,9 +1,3 @@
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lisuxin&include_all_commits=true&count_private-true&custom_title=lisuxin'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
-
 # linux卡片
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 # mac卡片
@@ -19,3 +13,6 @@
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lisuxin&include_all_commits=true&count_private-true&custom_title=lisuxin'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
