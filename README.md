@@ -15,14 +15,7 @@
 	</tr>
 </table>
 
-
-
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92940732/162619514-b197caab-4d2e-4f1e-a780-b40f3c63dc2b.gif" width="430" height="100%" />
-
-
-
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92940732/162619514-b197caab-4d2e-4f1e-a780-b40f3c63dc2b.gif" width="400" height="100%" />
 
 
 
@@ -46,7 +39,7 @@
         <span><strong>Django</strong></span><br><br><br>
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
       </td>
-     </tr>
+	     </tr>
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
