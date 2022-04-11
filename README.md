@@ -15,7 +15,7 @@
 	</tr>
 </table>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92940732/162619514-b197caab-4d2e-4f1e-a780-b40f3c63dc2b.gif" width="400" height="100%" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/92940732/162619514-b197caab-4d2e-4f1e-a780-b40f3c63dc2b.gif" width="300" height="100%" />
 
 
 
