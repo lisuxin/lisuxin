@@ -22,5 +22,4 @@
 
 ![](https://activity-graph.herokuapp.com/graph?username=lisuxin&theme=dracula)
 
-# 多来点人啊
 
