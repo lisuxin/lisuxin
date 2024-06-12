@@ -1,5 +1,5 @@
 
-<video src="办公.mp4" width="800px" height="600px" controls="controls"></video>
+<video src="办公.mp4"/>
 
 <table style="float:right">
 	<tr>
