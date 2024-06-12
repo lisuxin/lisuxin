@@ -1,6 +1,3 @@
-
-<video src="办公.mp4"/>
-
 <table style="float:right">
 	<tr>
 	<td>
@@ -15,5 +12,3 @@
 
 
 ![](https://activity-graph.herokuapp.com/graph?username=lisuxin&theme=dracula)
-
-
